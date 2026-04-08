@@ -10,13 +10,14 @@ Software developer with experience across multiple languages and paradigms — f
 [![My Skills](https://skillicons.dev/icons?i=go,cpp,cs,java,py,ts)](https://skillicons.dev)
 
 #### 🌐 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=fastapi,gin,dotnet,angular,react,rabbitmq,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,dotnet,angular,react,rabbitmq,docker)](https://skillicons.dev)
 
 #### 🗃️ Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev)
 
 #### 🖥️ Environment
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,vscode,neovim)](https://skillicons.dev)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
