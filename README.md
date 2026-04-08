@@ -6,20 +6,24 @@ Software developer with experience across multiple languages and paradigms — f
 
 ## Languages & Technologies
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+#### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=go,cpp,cs,java,py,ts)](https://skillicons.dev)
+
+#### 🌐 Frameworks
+[![My Skills](https://skillicons.dev/icons?i=fastapi,gin,dotnet,angular,react,rabbitmq)](https://skillicons.dev)
+
+#### 🗃️ Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jignacio14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jignacio14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jignacio14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jignacio14&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 ---
