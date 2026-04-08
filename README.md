@@ -10,7 +10,7 @@ Software developer with experience across multiple languages and paradigms — f
 [![My Skills](https://skillicons.dev/icons?i=go,cpp,cs,java,py,ts)](https://skillicons.dev)
 
 #### 🌐 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=fastapi,dotnet,angular,react,rabbitmq,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,dotnet,angular,react,rabbitmq,docker,git)](https://skillicons.dev)
 
 #### 🗃️ Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev)
@@ -34,9 +34,12 @@ Software developer with experience across multiple languages and paradigms — f
 
 ## About Me
 
+- Teaching Assistant at **Universidad de Buenos Aires** — Programming Paradigms
+- **What I do:** Frontend, Backend, Microservices & Software Architecture
+- **Languages:** Spanish (native) · English (B2) · French (A2)
 - Building things with statically typed languages by preference
-- Comfortable working across the stack — systems, backend, and tooling
 - Always looking for interesting problems to solve
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jignacio-castro/)
 
 ---
 
